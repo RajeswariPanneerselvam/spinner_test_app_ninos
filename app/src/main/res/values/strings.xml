@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">SpinnerTestApp</string>
+    <string-array name="country_entries">
+        <item>IN</item>
+        <item>USA</item>
+        <item>CHINA</item>
+    </string-array>
+
+    <string-array name="state_values">
+        <item>TN</item>
+        <item>AP</item>
+        <item>TS</item>
+        <item>ALASKA</item>
+        <item>HATMAN</item>
+        <item>HUNAN</item>
+
+    </string-array>
+    <string-array name="city_values">
+        <item>CHENNAI</item>
+        <item>MADUIRAI</item>
+        <item>KOVAI</item>
+        <item>ERODE</item>
+        <item>ONGOLE</item>
+        <item>TENALI</item>
+        <item>VIZAG</item>
+        <item>HYDERABAD</item>
+        <item>WARANGAL</item>
+        <item>VIKRABAD</item>
+
+        <item>JUNEAU</item>
+        <item>SITKA</item>
+        <item>KENAI</item>
+        <item>HAIKOU</item>
+        <item>SANYA</item>
+        <item>DONGFANG</item>
+        <item>CHANGHSA</item>
+        <item>YUEYANG</item>
+        <item>CHANGDE</item>
+
+
+
+    </string-array>
+</resources>
